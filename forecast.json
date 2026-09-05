@@ -1,0 +1,163 @@
+{
+  "gerado_em": "2026-09-05T20:11:53.675450+00:00",
+  "lat": -22.1167,
+  "lon": -45.05,
+  "dias": [
+    {
+      "data": "2026-09-05",
+      "tmax": 28.7,
+      "tmin": 16.4,
+      "prob_chuva": 39,
+      "condicao": "pancadas fracas"
+    },
+    {
+      "data": "2026-09-06",
+      "tmax": 19.4,
+      "tmin": 12.1,
+      "prob_chuva": 78,
+      "condicao": "pancadas de chuva"
+    },
+    {
+      "data": "2026-09-07",
+      "tmax": 15.9,
+      "tmin": 11.6,
+      "prob_chuva": 53,
+      "condicao": "garoa"
+    },
+    {
+      "data": "2026-09-08",
+      "tmax": 20.1,
+      "tmin": 12.7,
+      "prob_chuva": 48,
+      "condicao": "pancadas de chuva"
+    },
+    {
+      "data": "2026-09-09",
+      "tmax": 21.7,
+      "tmin": 16.6,
+      "prob_chuva": 65,
+      "condicao": "pancadas fracas"
+    },
+    {
+      "data": "2026-09-10",
+      "tmax": 25.2,
+      "tmin": 16.5,
+      "prob_chuva": 59,
+      "condicao": "trovoadas"
+    },
+    {
+      "data": "2026-09-11",
+      "tmax": 28.1,
+      "tmin": 17.1,
+      "prob_chuva": 33,
+      "condicao": "garoa fraca"
+    },
+    {
+      "data": "2026-09-12",
+      "tmax": 27.5,
+      "tmin": 16.6,
+      "prob_chuva": 40,
+      "condicao": "garoa"
+    },
+    {
+      "data": "2026-09-13",
+      "tmax": 27.6,
+      "tmin": 15.1,
+      "prob_chuva": 32,
+      "condicao": "garoa"
+    },
+    {
+      "data": "2026-09-14",
+      "tmax": 27.3,
+      "tmin": 17.1,
+      "prob_chuva": 28,
+      "condicao": "trovoadas"
+    },
+    {
+      "data": "2026-09-15",
+      "tmax": 26.9,
+      "tmin": 15.6,
+      "prob_chuva": 18,
+      "condicao": "garoa fraca"
+    },
+    {
+      "data": "2026-09-16",
+      "tmax": 20.6,
+      "tmin": 14.8,
+      "prob_chuva": 14,
+      "condicao": "garoa fraca"
+    },
+    {
+      "data": "2026-09-17",
+      "tmax": 20.7,
+      "tmin": 15.3,
+      "prob_chuva": 22,
+      "condicao": "garoa fraca"
+    },
+    {
+      "data": "2026-09-18",
+      "tmax": 23.7,
+      "tmin": 14.7,
+      "prob_chuva": 17,
+      "condicao": "nublado"
+    }
+  ],
+  "feriados_nacionais": [
+    {
+      "data": "2026-01-01",
+      "nome": "Confraternização mundial"
+    },
+    {
+      "data": "2026-02-16",
+      "nome": "Carnaval"
+    },
+    {
+      "data": "2026-02-17",
+      "nome": "Carnaval"
+    },
+    {
+      "data": "2026-04-03",
+      "nome": "Sexta-feira Santa"
+    },
+    {
+      "data": "2026-04-05",
+      "nome": "Páscoa"
+    },
+    {
+      "data": "2026-04-21",
+      "nome": "Tiradentes"
+    },
+    {
+      "data": "2026-05-01",
+      "nome": "Dia do trabalho"
+    },
+    {
+      "data": "2026-06-04",
+      "nome": "Corpus Christi"
+    },
+    {
+      "data": "2026-09-07",
+      "nome": "Independência do Brasil"
+    },
+    {
+      "data": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida"
+    },
+    {
+      "data": "2026-11-02",
+      "nome": "Finados"
+    },
+    {
+      "data": "2026-11-15",
+      "nome": "Proclamação da República"
+    },
+    {
+      "data": "2026-11-20",
+      "nome": "Dia da consciência negra"
+    },
+    {
+      "data": "2026-12-25",
+      "nome": "Natal"
+    }
+  ]
+}
