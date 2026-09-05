@@ -1,0 +1,41 @@
+# Salve este arquivo em: .github/workflows/collect-trends.yml
+# (dentro do repositório onde estão collect_trends.py e collect_forecast.py)
+name: Coletar Google Trends - São Lourenço
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # todo dia às 09:00 UTC (~06:00 em Brasília)
+  workflow_dispatch: {}    # também permite rodar manualmente pelo GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install pytrends pandas requests beautifulsoup4
+
+      - name: Rodar coleta de índice de busca
+        run: python collect_trends.py
+
+      - name: Rodar coleta de previsão (clima + feriados)
+        run: python collect_forecast.py
+
+      - name: Buscar pistas de calibração (InFOHB)
+        run: python collect_calibracao_sugestao.py
+
+      - name: Salvar arquivos atualizados no repositório
+        run: |
+          git config user.name "trends-bot"
+          git config user.email "trends-bot@users.noreply.github.com"
+          git add trends.json forecast.json sugestao_calibracao.json
+          git diff --cached --quiet || git commit -m "Atualiza dados $(date -u +%Y-%m-%d)"
+          git push
