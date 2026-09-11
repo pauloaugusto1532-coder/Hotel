@@ -1,105 +1,105 @@
 {
-  "gerado_em": "2026-09-10T09:16:02.473612+00:00",
+  "gerado_em": "2026-09-11T09:15:40.315994+00:00",
   "lat": -22.1167,
   "lon": -45.05,
   "dias": [
     {
-      "data": "2026-09-10",
-      "tmax": 24.7,
-      "tmin": 16.1,
-      "prob_chuva": 64,
-      "condicao": "trovoadas"
-    },
-    {
       "data": "2026-09-11",
-      "tmax": 28.4,
-      "tmin": 16.5,
-      "prob_chuva": 36,
+      "tmax": 28.7,
+      "tmin": 14.6,
+      "prob_chuva": 22,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-09-12",
-      "tmax": 29.7,
+      "tmax": 28.9,
       "tmin": 16.9,
-      "prob_chuva": 34,
-      "condicao": "trovoadas"
+      "prob_chuva": 27,
+      "condicao": "pancadas fracas"
     },
     {
       "data": "2026-09-13",
-      "tmax": 25.2,
-      "tmin": 16.4,
-      "prob_chuva": 36,
-      "condicao": "garoa"
+      "tmax": 26.2,
+      "tmin": 16.7,
+      "prob_chuva": 46,
+      "condicao": "—"
     },
     {
       "data": "2026-09-14",
-      "tmax": 21.9,
-      "tmin": 15.7,
-      "prob_chuva": 74,
+      "tmax": 22.4,
+      "tmin": 16.8,
+      "prob_chuva": 75,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-09-15",
-      "tmax": 23.7,
-      "tmin": 14.6,
-      "prob_chuva": 66,
-      "condicao": "garoa"
+      "tmax": 21.2,
+      "tmin": 14.4,
+      "prob_chuva": 57,
+      "condicao": "pancadas fracas"
     },
     {
       "data": "2026-09-16",
-      "tmax": 22.9,
-      "tmin": 13.9,
-      "prob_chuva": 38,
-      "condicao": "poucas nuvens"
+      "tmax": 24.6,
+      "tmin": 13.4,
+      "prob_chuva": 15,
+      "condicao": "nublado"
     },
     {
       "data": "2026-09-17",
-      "tmax": 23.9,
-      "tmin": 13.3,
-      "prob_chuva": 10,
+      "tmax": 20.8,
+      "tmin": 13.2,
+      "prob_chuva": 4,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-09-18",
-      "tmax": 25.8,
-      "tmin": 13.3,
-      "prob_chuva": 14,
-      "condicao": "nublado"
+      "tmax": 23.7,
+      "tmin": 14.0,
+      "prob_chuva": 4,
+      "condicao": "garoa fraca"
     },
     {
       "data": "2026-09-19",
-      "tmax": 22.2,
-      "tmin": 14.1,
-      "prob_chuva": 36,
-      "condicao": "garoa"
+      "tmax": 23.4,
+      "tmin": 14.8,
+      "prob_chuva": 24,
+      "condicao": "pancadas fracas"
     },
     {
       "data": "2026-09-20",
-      "tmax": 24.3,
-      "tmin": 15.2,
-      "prob_chuva": 49,
+      "tmax": 20.3,
+      "tmin": 14.7,
+      "prob_chuva": 43,
       "condicao": "pancadas fracas"
     },
     {
       "data": "2026-09-21",
-      "tmax": 21.7,
-      "tmin": 17.5,
-      "prob_chuva": 42,
-      "condicao": "pancadas fracas"
-    },
-    {
-      "data": "2026-09-22",
-      "tmax": 23.3,
-      "tmin": 15.6,
-      "prob_chuva": 48,
+      "tmax": 25.8,
+      "tmin": 16.3,
+      "prob_chuva": 49,
       "condicao": "garoa fraca"
     },
     {
+      "data": "2026-09-22",
+      "tmax": 26.4,
+      "tmin": 15.8,
+      "prob_chuva": 44,
+      "condicao": "pancadas fracas"
+    },
+    {
       "data": "2026-09-23",
+      "tmax": 21.1,
+      "tmin": 16.4,
+      "prob_chuva": 39,
+      "condicao": "pancadas fracas"
+    },
+    {
+      "data": "2026-09-24",
       "tmax": 22.7,
-      "tmin": 14.4,
-      "prob_chuva": 36,
-      "condicao": "nublado"
+      "tmin": 14.9,
+      "prob_chuva": 34,
+      "condicao": "garoa fraca"
     }
   ],
   "feriados_nacionais": [
