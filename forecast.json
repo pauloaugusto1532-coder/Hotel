@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T18:30:08.873483+00:00",
+  "gerado_em": "2026-10-12T18:50:07.326209+00:00",
   "lat": -22.1167,
   "lon": -45.05,
   "dias": [
@@ -91,14 +91,14 @@
       "data": "2026-10-24",
       "tmax": 21.7,
       "tmin": 18.2,
-      "prob_chuva": 40,
+      "prob_chuva": 39,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-10-25",
       "tmax": 20.5,
       "tmin": 13.2,
-      "prob_chuva": 58,
+      "prob_chuva": 46,
       "condicao": "pancadas de chuva"
     }
   ],
