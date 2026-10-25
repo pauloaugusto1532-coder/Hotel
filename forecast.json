@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T13:31:03.612221+00:00",
+  "gerado_em": "2026-10-25T13:38:39.330624+00:00",
   "lat": -22.1167,
   "lon": -45.05,
   "dias": [
@@ -7,14 +7,14 @@
       "data": "2026-10-25",
       "tmax": 22.9,
       "tmin": 17.8,
-      "prob_chuva": 81,
+      "prob_chuva": 93,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-10-26",
       "tmax": 24.9,
       "tmin": 13.2,
-      "prob_chuva": 21,
+      "prob_chuva": 28,
       "condicao": "garoa fraca"
     },
     {
@@ -28,56 +28,56 @@
       "data": "2026-10-28",
       "tmax": 23.5,
       "tmin": 11.3,
-      "prob_chuva": 9,
+      "prob_chuva": 12,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-10-29",
       "tmax": 21.6,
       "tmin": 17.3,
-      "prob_chuva": 75,
+      "prob_chuva": 84,
       "condicao": "pancadas de chuva"
     },
     {
       "data": "2026-10-30",
       "tmax": 23.9,
       "tmin": 17.3,
-      "prob_chuva": 91,
+      "prob_chuva": 87,
       "condicao": "pancadas de chuva"
     },
     {
       "data": "2026-10-31",
       "tmax": 27.5,
       "tmin": 16.9,
-      "prob_chuva": 45,
+      "prob_chuva": 35,
       "condicao": "garoa"
     },
     {
       "data": "2026-11-01",
       "tmax": 27.9,
       "tmin": 16.8,
-      "prob_chuva": 33,
+      "prob_chuva": 42,
       "condicao": "garoa forte"
     },
     {
       "data": "2026-11-02",
       "tmax": 27.8,
       "tmin": 17.0,
-      "prob_chuva": 30,
+      "prob_chuva": 38,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-11-03",
       "tmax": 28.5,
       "tmin": 17.4,
-      "prob_chuva": 30,
+      "prob_chuva": 31,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-11-04",
       "tmax": 28.1,
       "tmin": 18.2,
-      "prob_chuva": 36,
+      "prob_chuva": 39,
       "condicao": "trovoadas"
     },
     {
@@ -91,14 +91,14 @@
       "data": "2026-11-06",
       "tmax": 22.1,
       "tmin": 13.4,
-      "prob_chuva": 41,
+      "prob_chuva": 36,
       "condicao": "nublado"
     },
     {
       "data": "2026-11-07",
       "tmax": 25.3,
       "tmin": 12.4,
-      "prob_chuva": 60,
+      "prob_chuva": 43,
       "condicao": "garoa fraca"
     }
   ],
