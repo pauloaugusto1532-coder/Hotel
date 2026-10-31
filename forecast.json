@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T14:57:32.853257+00:00",
+  "gerado_em": "2026-10-31T15:13:29.227090+00:00",
   "lat": -22.1167,
   "lon": -45.05,
   "dias": [
@@ -7,49 +7,49 @@
       "data": "2026-10-31",
       "tmax": 27.6,
       "tmin": 16.0,
-      "prob_chuva": 28,
+      "prob_chuva": 26,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-11-01",
       "tmax": 26.5,
       "tmin": 15.8,
-      "prob_chuva": 40,
+      "prob_chuva": 38,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-11-02",
       "tmax": 27.8,
       "tmin": 17.1,
-      "prob_chuva": 33,
+      "prob_chuva": 39,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-11-03",
       "tmax": 29.1,
       "tmin": 17.7,
-      "prob_chuva": 22,
+      "prob_chuva": 20,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-11-04",
       "tmax": 30.3,
       "tmin": 17.0,
-      "prob_chuva": 16,
+      "prob_chuva": 15,
       "condicao": "garoa fraca"
     },
     {
       "data": "2026-11-05",
       "tmax": 30.4,
       "tmin": 19.0,
-      "prob_chuva": 30,
+      "prob_chuva": 25,
       "condicao": "—"
     },
     {
       "data": "2026-11-06",
       "tmax": 28.4,
       "tmin": 17.3,
-      "prob_chuva": 57,
+      "prob_chuva": 53,
       "condicao": "garoa forte"
     },
     {
