@@ -1,105 +1,105 @@
 {
-  "gerado_em": "2026-11-23T20:48:40.619376+00:00",
+  "gerado_em": "2026-11-24T19:52:05.912444+00:00",
   "lat": -22.1167,
   "lon": -45.05,
   "dias": [
     {
-      "data": "2026-11-23",
-      "tmax": 29.7,
-      "tmin": 19.1,
-      "prob_chuva": 49,
-      "condicao": "trovoadas"
-    },
-    {
       "data": "2026-11-24",
-      "tmax": 29.8,
-      "tmin": 18.7,
-      "prob_chuva": 53,
+      "tmax": 29.1,
+      "tmin": 19.8,
+      "prob_chuva": 77,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-11-25",
-      "tmax": 26.3,
-      "tmin": 20.2,
-      "prob_chuva": 78,
+      "tmax": 29.3,
+      "tmin": 20.7,
+      "prob_chuva": 82,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-11-26",
-      "tmax": 27.2,
-      "tmin": 17.9,
-      "prob_chuva": 66,
+      "tmax": 25.2,
+      "tmin": 17.8,
+      "prob_chuva": 68,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-11-27",
-      "tmax": 25.0,
-      "tmin": 17.3,
-      "prob_chuva": 43,
-      "condicao": "garoa forte"
+      "tmax": 24.0,
+      "tmin": 16.1,
+      "prob_chuva": 30,
+      "condicao": "garoa"
     },
     {
       "data": "2026-11-28",
-      "tmax": 23.9,
-      "tmin": 17.0,
-      "prob_chuva": 73,
-      "condicao": "garoa forte"
+      "tmax": 26.2,
+      "tmin": 17.7,
+      "prob_chuva": 76,
+      "condicao": "trovoadas"
     },
     {
       "data": "2026-11-29",
-      "tmax": 26.7,
-      "tmin": 18.3,
-      "prob_chuva": 86,
-      "condicao": "trovoadas"
+      "tmax": 26.6,
+      "tmin": 19.1,
+      "prob_chuva": 87,
+      "condicao": "—"
     },
     {
       "data": "2026-11-30",
-      "tmax": 26.8,
-      "tmin": 17.1,
-      "prob_chuva": 72,
-      "condicao": "garoa"
+      "tmax": 27.3,
+      "tmin": 16.6,
+      "prob_chuva": 61,
+      "condicao": "garoa fraca"
     },
     {
       "data": "2026-12-01",
-      "tmax": 27.6,
-      "tmin": 17.0,
-      "prob_chuva": 56,
-      "condicao": "garoa"
+      "tmax": 26.0,
+      "tmin": 16.4,
+      "prob_chuva": 55,
+      "condicao": "garoa fraca"
     },
     {
       "data": "2026-12-02",
-      "tmax": 23.7,
-      "tmin": 18.0,
-      "prob_chuva": 58,
-      "condicao": "garoa"
+      "tmax": 27.4,
+      "tmin": 17.5,
+      "prob_chuva": 54,
+      "condicao": "garoa fraca"
     },
     {
       "data": "2026-12-03",
-      "tmax": 27.0,
-      "tmin": 18.0,
-      "prob_chuva": 60,
-      "condicao": "trovoadas"
+      "tmax": 28.1,
+      "tmin": 18.8,
+      "prob_chuva": 61,
+      "condicao": "garoa"
     },
     {
       "data": "2026-12-04",
-      "tmax": 22.4,
-      "tmin": 19.0,
-      "prob_chuva": 64,
-      "condicao": "pancadas fracas"
+      "tmax": 24.5,
+      "tmin": 18.8,
+      "prob_chuva": 73,
+      "condicao": "trovoadas"
     },
     {
       "data": "2026-12-05",
-      "tmax": 23.4,
-      "tmin": 19.1,
-      "prob_chuva": 72,
+      "tmax": 25.3,
+      "tmin": 19.0,
+      "prob_chuva": 84,
       "condicao": "trovoadas"
     },
     {
       "data": "2026-12-06",
-      "tmax": 25.2,
-      "tmin": 17.8,
-      "prob_chuva": 75,
+      "tmax": 26.3,
+      "tmin": 18.6,
+      "prob_chuva": 71,
       "condicao": "trovoadas"
+    },
+    {
+      "data": "2026-12-07",
+      "tmax": 28.6,
+      "tmin": 18.4,
+      "prob_chuva": 55,
+      "condicao": "garoa"
     }
   ],
   "feriados_nacionais": [
